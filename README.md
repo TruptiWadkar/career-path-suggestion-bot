@@ -22,4 +22,7 @@ A conversational AI assistant that suggests career paths based on user input usi
 
 ```bash
 pip install streamlit google-generativeai python-dotenv
+Run
+streamlit run main.py
+
 
