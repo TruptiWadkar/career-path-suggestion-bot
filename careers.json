@@ -1,0 +1,38 @@
+[
+  {
+    "career": "Fashion Designer",
+    "stream": "Arts & Design",
+    "interests": ["drawing", "designing", "clothes", "fashion", "sketching", "creativity"],
+    "explanation": "Designing clothes is a creative field that involves aesthetics, color theory, and trends."
+  },
+  {
+    "career": "Software Engineer",
+    "stream": "STEM",
+    "interests": ["coding", "problem-solving", "technology", "software", "logic"],
+    "explanation": "Software Engineering is ideal for those who enjoy problem-solving and working with code."
+  },
+  {
+    "career": "Doctor",
+    "stream": "Healthcare",
+    "interests": ["helping people", "biology", "science", "medicine", "empathy"],
+    "explanation": "Doctors help people live healthier lives. This path is suited for those who want to make a difference in others’ lives."
+  },
+  {
+    "career": "Graphic Designer",
+    "stream": "Arts & Design",
+    "interests": ["visuals", "creativity", "posters", "design", "illustration"],
+    "explanation": "Graphic Designers use visuals to communicate ideas. It's perfect for creative thinkers."
+  },
+  {
+    "career": "Teacher",
+    "stream": "Education",
+    "interests": ["teaching", "explaining", "helping others", "learning"],
+    "explanation": "Teaching is great for those who enjoy sharing knowledge and helping others grow."
+  },
+  {
+    "career": "Athlete",
+    "stream": "Sports",
+    "interests": ["sports", "competition", "fitness", "training", "teamwork"],
+    "explanation": "A career in sports is ideal for energetic individuals who love physical activity and pushing limits."
+  }
+]
